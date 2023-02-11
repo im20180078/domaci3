@@ -1,9 +1,10 @@
 import React from "react";
+import {Link} from 'react-router-dom'
 
 function NavBar({movieNumber}){
     return(
         <div className="navBar">
-            <MdMovie/>
+          
             <Link to="/">Video klub</Link>
             <Link to='/iznajmi' className='cart-items'><BsCart/></Link>
 

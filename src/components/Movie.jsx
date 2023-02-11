@@ -10,8 +10,6 @@ function Movie({ film, addToCart, inCart, removeFromCart }) {
 
     <div className='card' style={{ margin: 10}}> 
 
-      
-
       <div className='card-body'> 
 
         <h3 className='card-title'>{film.title}</h3> 
