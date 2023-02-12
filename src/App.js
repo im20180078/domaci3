@@ -21,6 +21,7 @@ function App() {
       title: "Jurassic Park",
       synopsys:"A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
       actors: "Jeff Goldblum",
+      //image: jp.png,
       amount: 0
     },
     {
@@ -28,6 +29,7 @@ function App() {
       title: "Kill Bill",
       synopsys:"After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
       actors: "Uma Thurman",
+      //image: killbill.jpg,
       amount: 0
     },
     {
@@ -35,6 +37,7 @@ function App() {
       title: "Parasite",
       synopsys:"Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
       actors: "Song Kang-ho",
+      //image: parasite.jpg,
       amount: 0
     },
     {
@@ -42,6 +45,7 @@ function App() {
       title: "Avengers",
       synopsys:"Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
       actors: "Robert Downey Jr",
+      //image: avengers.jpg,
       amount: 0
     },
     {
@@ -49,6 +53,7 @@ function App() {
       title: "Avatar",
       synopsys:"A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
       actors: "Sam Worthington",
+      //image: avatar.jpg,
       amount: 0
     },
     {
@@ -56,6 +61,7 @@ function App() {
       title: "Joker",
       synopsys:"A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
       actors: "Joaqin Phoenix",
+      //image: joker.jpg,
       amount: 0
     },
     { 
@@ -63,6 +69,7 @@ function App() {
       title: "300",
       synopsys: "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
       actors: "Gerard Butler",
+      //image: trista.jpg,
       amount: 0
     } 
 
