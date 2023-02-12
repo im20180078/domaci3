@@ -28,7 +28,7 @@ const Kontakt=({inHome})=>{
                 {inHome===1?(<>
                     <textarea placeholder="Iskustva..." type="textarea" required/>
                     </>):(<>
-                        <textarea placeholder="Predlog za bogatiju ponudu" type="textarea" required/>
+                        <textarea placeholder="Predlog za novi film" type="textarea" required/>
                     
                     </>)}
 
